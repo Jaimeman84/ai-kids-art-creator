@@ -30,7 +30,7 @@ A fun and interactive Streamlit application that lets kids create amazing AI-gen
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-art-creator.git
+git clone https://github.com/Jaimeman84/ai-kids-art-creator.git
 cd ai-art-creator
 ```
 
